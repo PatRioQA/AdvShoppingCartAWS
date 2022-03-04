@@ -1,6 +1,6 @@
 import adshopcart_methods as methods
 import adshopcart_locators as locators
-import unittest
+import unittest as unittest
 
 
 class AdshopcartPositiveTestCases(unittest.TestCase):
